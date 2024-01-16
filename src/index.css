@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Allerta+Stencil&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.headerbg {
+  background: url("https://images.pexels.com/photos/5778899/pexels-photo-5778899.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"),
+    linear-gradient(#070707af, #0e0d0dc9);
+  background-blend-mode: overlay;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border: 1px solid white;
+}

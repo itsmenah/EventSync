@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "Educational",
+    "eventUrl": "educational",
+    "image": "https://images.pexels.com/photos/1595385/pexels-photo-1595385.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "price": "yaha padhai hoti hai",
+    "booking": "Open",
+    "caption": "Education",
+    "description": "education"
+  },
+  {
+    "id": 2,
+    "title": "Recreational",
+    "eventUrl": "Recreational",
+    "image": "https://images.pexels.com/photos/207896/pexels-photo-207896.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "price": "$500",
+    "booking": "Close",
+    "caption": "Stylish and fun birthday celebrations.",
+    "description": "Celebrate your special day in style with our expert party planning services. Whether you're planning an intimate gathering or a grand extravaganza, we've got you covered. Our team will assist you in selecting the perfect theme, arranging entertainment, and crafting a menu that will delight your guests' taste buds. We take care of all the details, so you can relax and enjoy a birthday party that's as unique as you are."
+  },
+  {
+    "id": 3,
+    "title": "Fest",
+    "eventUrl": "Fest",
+    "image": "https://images.pexels.com/photos/1105666/pexels-photo-1105666.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "price": "$1,200",
+    "booking": "Open",
+    "caption": "Cherish your love journey.",
+    "description": "Celebrate your love story with a remarkable anniversary event. Our anniversary planning services are designed to create an unforgettable evening filled with romance and joy. From selecting the most romantic venue to crafting personalized decor, arranging for live music, and creating a gourmet dining experience, we take care of every detail. Let us help you cherish your journey together with a celebration that captures the essence of your love."
+  },
+  {
+    "id": 4,
+    "title": "Seminar",
+    "eventUrl": "seminar",
+    "image": "https://images.pexels.com/photos/2774556/pexels-photo-2774556.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "price": "$800",
+    "booking": "Close",
+    "caption": "Elegant engagement celebrations.",
+    "description": "Announce your engagement in style with our expert party planning services. Our team will work closely with you to create a memorable and elegant engagement party that reflects your unique love story. From choosing the perfect venue to coordinating decorations, entertainment, and delicious catering, we handle every aspect of the event. You focus on celebrating your love while we take care of the rest."
+  },
+  {
+    "id": 5,
+    "title": "Health and Fitness",
+    "eventUrl": "health",
+    "image": "https://images.pexels.com/photos/1103829/pexels-photo-1103829.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "price": "$600",
+    "booking": "Open",
+    "caption": "Honoring retirement milestones.",
+    "description": "Bid farewell to a valued colleague or friend with a retirement party that honors their years of dedication and hard work. Our retirement party planning services ensure a memorable and heartfelt event. We help you choose a fitting theme, arrange for touching speeches, and create an atmosphere of gratitude and celebration. Let us handle the details while you cherish the retiree's accomplishments and the bright future that lies ahead."
+  },
+  {
+    "id": 6,
+    "title": "Mental Health",
+    "eventUrl": "mental-health",
+    "image": "https://images.pexels.com/photos/4507237/pexels-photo-4507237.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "price": "$400",
+    "booking": "Open",
+    "caption": "Joyous celebrations for growing families.",
+    "description": "Welcome the upcoming arrival of a precious new addition to your family with a joyous baby shower. Our baby shower planning services take care of every detail, so you can focus on celebrating the mom-to-be. We help you choose a theme that reflects your excitement, arrange fun games and activities, and ensure a delectable menu that satisfies all tastes. Let us create a stress-free and delightful event that celebrates the love and anticipation of your growing family."
+  }
+]

@@ -1,0 +1,97 @@
+{
+  "events": [
+    {
+      "eventName": "Enter Event Name",
+      "description": "Enter Description",
+      "bannerPhoto": "No file chosen",
+      "eventType": "In Person",
+      "audienceNumber": "Enter Audience Number",
+      "ticketPriceINR": "Enter Ticket Price",
+      "classification": "Education",
+      "hostName": "Enter Host Name",
+      "contactEmailAddress": "Enter Email Address",
+      "locationAddressMeetingLink": "Enter Location/Address/Meeting Link",
+      "privateEvent": true
+    }
+  ],
+  "categoryWiseEvents": {
+    "Education": [
+      {
+        "eventName": "Enter Event Name",
+        "description": "Enter Description",
+        "bannerPhoto": "No file chosen",
+        "eventType": "In Person",
+        "audienceNumber": "Enter Audience Number",
+        "ticketPriceINR": "Enter Ticket Price",
+        "hostName": "Enter Host Name",
+        "contactEmailAddress": "Enter Email Address",
+        "locationAddressMeetingLink": "Enter Location/Address/Meeting Link",
+        "privateEvent": true
+      }
+    ]
+  },
+  "categoryWiseEvents": {
+    "Education": [
+      {
+        "eventName": "Enter Event Name",
+        "description": "Enter Description",
+        "bannerPhoto": "No file chosen",
+        "eventType": "In Person",
+        "audienceNumber": "Enter Audience Number",
+        "ticketPriceINR": "Enter Ticket Price",
+        "hostName": "Enter Host Name",
+        "contactEmailAddress": "Enter Email Address",
+        "locationAddressMeetingLink": "Enter Location/Address/Meeting Link",
+        "privateEvent": true
+      }
+    ]
+  },
+  "categoryWiseEvents": {
+    "Education": [
+      {
+        "eventName": "Enter Event Name",
+        "description": "Enter Description",
+        "bannerPhoto": "No file chosen",
+        "eventType": "In Person",
+        "audienceNumber": "Enter Audience Number",
+        "ticketPriceINR": "Enter Ticket Price",
+        "hostName": "Enter Host Name",
+        "contactEmailAddress": "Enter Email Address",
+        "locationAddressMeetingLink": "Enter Location/Address/Meeting Link",
+        "privateEvent": true
+      }
+    ]
+  },
+  "categoryWiseEvents": {
+    "Education": [
+      {
+        "eventName": "Enter Event Name",
+        "description": "Enter Description",
+        "bannerPhoto": "No file chosen",
+        "eventType": "In Person",
+        "audienceNumber": "Enter Audience Number",
+        "ticketPriceINR": "Enter Ticket Price",
+        "hostName": "Enter Host Name",
+        "contactEmailAddress": "Enter Email Address",
+        "locationAddressMeetingLink": "Enter Location/Address/Meeting Link",
+        "privateEvent": true
+      }
+    ]
+  },
+  "categoryWiseEvents": {
+    "Education": [
+      {
+        "eventName": "Enter Event Name",
+        "description": "Enter Description",
+        "bannerPhoto": "No file chosen",
+        "eventType": "In Person",
+        "audienceNumber": "Enter Audience Number",
+        "ticketPriceINR": "Enter Ticket Price",
+        "hostName": "Enter Host Name",
+        "contactEmailAddress": "Enter Email Address",
+        "locationAddressMeetingLink": "Enter Location/Address/Meeting Link",
+        "privateEvent": true
+      }
+    ]
+  }
+}
