@@ -169,6 +169,21 @@ const Navbar = () => {
 
         <span className="flex mx-2 py-1 font-semibold hover:text-sky-600">
           <NavLink
+            to="/MyEvent"
+            className={({ isActive, isPending }) =>
+              isPending
+                ? "pending"
+                : isActive
+                ? " text-sky-700 underline rounded-md font-bold"
+                : ""
+            }
+          >
+            My Events
+          </NavLink>
+        </span>
+
+        <span className="flex mx-2 py-1 font-semibold hover:text-sky-600">
+          <NavLink
             to="/profile"
             className={({ isActive, isPending }) =>
               isPending

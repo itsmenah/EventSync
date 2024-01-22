@@ -11,6 +11,7 @@ import PrivateRoutes from "./PrivateRoutes";
 import PreventionRoute from "./PreventionRoute";
 import EventForm from "../Pages/CreateEvent";
 import Explore from "../Pages/Explore";
+import MyEvents from "../Pages/MyEvents";
 
 const customRoutes = createBrowserRouter([
   {
@@ -51,6 +52,14 @@ const customRoutes = createBrowserRouter([
         element: (
           <PrivateRoutes>
             <EventForm></EventForm>
+          </PrivateRoutes>
+        ),
+      },
+      {
+        path: "/MyEvent",
+        element: (
+          <PrivateRoutes>
+            <MyEvents></MyEvents>
           </PrivateRoutes>
         ),
       },

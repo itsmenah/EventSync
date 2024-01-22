@@ -28,8 +28,6 @@ const Card = ({ event }) => {
         <h1 className="text-xl text-slate-900 font-semibold">{event.title}</h1>
         <p className="text-sm text-gray-500 mt-1">{event.caption}</p>
         <p className="text-sm text-slate-800 mt-2">
-          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quam,
-          aperiam.
         </p>
       </div>
       <div>

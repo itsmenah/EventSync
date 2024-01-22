@@ -90,7 +90,7 @@ const Footer = () => {
             Copyright © 2024 - All right reserved by{" "}
             <span className="text-lg font-semibold text-stone-400 hover:text-blue-900 hover:underline ">
               <span className="font-logoFont font-medium">
-                Even<span className="text-sky-500">Sync</span>
+                Event<span className="text-sky-500">Sync</span>
               </span>
             </span>
           </p>
